@@ -1,0 +1,27 @@
+_repo: Guy-Livingstone-or-Thorough-_17084
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lawrence, George A. (George Alfred)
+    birthdate: 1827
+    deathdate: 1876
+    gutenberg_agent_id: '7126'
+    url: http://www.gutenberg.org/2009/agents/7126
+    wikipedia: http://en.wikipedia.org/wiki/George_Alfred_Lawrence
+description: ''
+gutenberg_issued: '2005-11-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17084'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PR'
+title: Guy Livingstone; or, 'Thorough'
+url: http://www.gutenberg.org/ebooks/17084
